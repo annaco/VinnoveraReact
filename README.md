@@ -1,7 +1,7 @@
 Arbetsprov till Vinnovera.
 Jag har skapat 5 komponenter till en väderapp, det är inte en fungerande app utan endast fristående komponenter.
 
-
+_____________________________________________________________________________________________________________________________________
 
 
 
