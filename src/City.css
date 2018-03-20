@@ -1,0 +1,8 @@
+.city {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+}

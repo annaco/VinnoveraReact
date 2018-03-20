@@ -1,0 +1,23 @@
+.close {
+    height: 15px;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.crossBox {
+    width: 14px;
+    height: 14px;
+    border: 1px solid orange;
+    border-radius: 50%;
+    background: white;
+    justify-content: flex-end;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+.cross {
+    font-size: 14px;
+    color: orange;
+}  

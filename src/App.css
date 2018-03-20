@@ -1,0 +1,39 @@
+.wrapper {
+  background: linear-gradient(to right, #f7f4d6, #cce3dd);
+  width: 950px;
+  height: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  font-family:  'Lato',  sans-serif;
+}
+
+.innerwrapper {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height:100%;
+  top: 250px;
+  flex: 1; 
+  justify-content: center;
+}
+
+.weatherBox {
+  width: 160px;
+  height: 50px;
+  display: flex;
+  background: #eb9861;
+  position: absolute;
+  top: 110px;
+}  
+
+.weatherBox_icon {
+  width: 80px;
+}
+
+.weatherBox_right {
+  flex-direction: column;
+  width: 80px;
+}
