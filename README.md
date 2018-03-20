@@ -2,6 +2,11 @@ Arbetsprov till Vinnovera.
 Jag har skapat 5 komponenter till en väderapp, det är inte en fungerande app utan endast fristående komponenter.
 
 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
